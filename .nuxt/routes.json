@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Layout/LayoutIndex",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Home/HomeIndex",
+        "_name": "_40fcb514"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex",
+        "_name": "_71b65c60"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex",
+        "_name": "_71b65c60"
+      },
+      {
+        "path": "settings",
+        "name": "settings",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Settings/SettingsIndex",
+        "_name": "_794400d8"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Profile/ProfileIndex",
+        "_name": "_4e66cde0"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleBrowser",
+        "_name": "_466bb9dc"
+      },
+      {
+        "path": "editor/:slug?",
+        "name": "editor",
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleEditor",
+        "_name": "_7a38ec39"
+      }
+    ],
+    "_name": "_8b203218"
+  }
+]
