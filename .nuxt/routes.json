@@ -6,46 +6,38 @@
       {
         "path": "",
         "name": "home",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Home/HomeIndex",
-        "_name": "_40fcb514"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Home/HomeIndex"
       },
       {
         "path": "login",
         "name": "login",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex",
-        "_name": "_71b65c60"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex"
       },
       {
         "path": "register",
         "name": "register",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex",
-        "_name": "_71b65c60"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Login/LoginIndex"
       },
       {
         "path": "settings",
         "name": "settings",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Settings/SettingsIndex",
-        "_name": "_794400d8"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Settings/SettingsIndex"
       },
       {
         "path": "profile/:username",
         "name": "profile",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Profile/ProfileIndex",
-        "_name": "_4e66cde0"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Profile/ProfileIndex"
       },
       {
         "path": "article/:slug",
         "name": "article",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleBrowser",
-        "_name": "_466bb9dc"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleBrowser"
       },
       {
         "path": "editor/:slug?",
         "name": "editor",
-        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleEditor",
-        "_name": "_7a38ec39"
+        "component": "/Users/rayyli/Develop/Vue.js/Nuxt.js/realworld-nuxtjs/pages/Article/ArticleEditor"
       }
-    ],
-    "_name": "_8b203218"
+    ]
   }
 ]

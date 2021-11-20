@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "RealWorld",
-      "exec": "npm",
+      "script": "yarn",
       "args": "start"
     }
   ]
